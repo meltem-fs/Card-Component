@@ -1,7 +1,6 @@
 # Frontend Mentor - Expenses chart component
 [click](https://meltem-fs.github.io/Card-Component/)
 
-![Design preview for the Expenses chart component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
