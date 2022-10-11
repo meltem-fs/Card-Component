@@ -1,6 +1,9 @@
 # Frontend Mentor - Expenses chart component
 [click](https://meltem-fs.github.io/Card-Component/)
 
+![Ekran görüntüsü 2022-10-11 214810](https://user-images.githubusercontent.com/101893145/195174545-4d421771-b257-4a9a-b1c3-bea2bcb9db7c.png)
+
+
 
 ## Welcome! 👋
 
